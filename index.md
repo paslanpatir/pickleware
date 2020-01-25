@@ -1,5 +1,3 @@
 Thesis code reports
 
-[Here](TezV2_CumulatedCodes.html) is the report for the first main cases for basic model.
-
-[Here](TezV2_CumulatedCodes_DummyModel.html) is the report for the first main cases for dummy model.
+[Here](ComparisonResults_WRep.html) shows the finding and comparisons for 10 different initial data for oneshot and sequential sampling and 10 different replications for each initial dataset. Both basic and dummy models are represented here.
